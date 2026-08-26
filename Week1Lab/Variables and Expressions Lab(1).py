@@ -49,13 +49,17 @@ print(total6)
 # Now, I'd like you to make two variables that contain your first and last name
 # After you've made the variables, find a way to join the two strings to print your full name. This is string concatenation.
 # Think of it as "adding" your variables together.
-fname=Daniel
+fname="Daniel"
 lname="Rodriguez"
-
+print(f"Hello nice to meet you my name is {fname} {lname} ")
 # While we did some math earlier, I'd like you to try doing math with variables this time. (If you already did this, you can skip this. Good job.)
 
 
 # Lastly, do something of your own choice. Anything that involves variables and expressions is allowed here.
 # If you're stumped on ideas, just try and make an expression that converts Celsius to Fahrenheit or vice versa.
-
+f=90
+c=32
+print(f"if it is {f} degrees Fahrenheit then it is {c} degrees Celsius")
 # Upload this to Canvas under the Variable and Expressions Lab assignment.
+sum=c*1.8+32
+print(sum)

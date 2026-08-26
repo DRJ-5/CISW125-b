@@ -35,3 +35,6 @@ print(score)
 x=5 
 y=3
 print(z)
+
+
+print("I like the game" ,game)
