@@ -1,0 +1,37 @@
+#name variables in relation to what their value is
+game="minecraft"
+#print is what shows program output
+print(game)
+
+
+character"Sebastian"
+#if you want number values do not put integer in between ""
+score=5
+#lowercase and uppercase make the variables into two even if spelt same
+Score=5
+
+#variable names should describe what they contain
+
+#bad examples of Variable names
+x=50
+a="Minecraft"
+thing="Sebastian"
+
+#Variable rules 101:
+#Variable names cannot contain spaces
+amount_of_oranges=10
+AmountOfOranges=10
+#cannot begin with a number
+
+#should usually start with a lowercase
+#Use underscores to seperate words
+
+
+score=10
+print(score)
+score=20
+print(score)
+
+x=5 
+y=3
+print(z)
