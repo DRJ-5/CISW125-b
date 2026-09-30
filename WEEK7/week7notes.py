@@ -92,7 +92,7 @@ for number in range(1,11):
 #choosing the right loop?
 #use a while loop when repitiion depends on a condition
 #keep looping while answer is not yes
-while answer !="yes":
+ #while answer !="yes":
     #ask the user again
     answer=input("Enter yes: ")
 
