@@ -17,7 +17,7 @@
 #ge=int(input("Enter your age: "))
 
 #keep looping if the age is less than 1 or greater than 120
-#ile age <1 or age >120: #the loop only runs if one of the conditions is true
+while age <1 or age >120: #the loop only runs if one of the conditions is true
             #tell user, invalid input
  #          print("Invalid age ")
             #ask the user to enter their age again
@@ -92,8 +92,8 @@ for number in range(1,11):
 #choosing the right loop?
 #use a while loop when repitiion depends on a condition
 #keep looping while answer is not yes
- #while answer !="yes":
-    #ask the user again
+ while answer !="yes":
+    ask the user again
     answer=input("Enter yes: ")
 
 #use a for loop when working through item#
