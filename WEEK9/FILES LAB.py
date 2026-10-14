@@ -9,3 +9,4 @@ with open("WEEK9/LAB.txt", "r") as file:
    print(contents)
 
 
+#Output from the challenge can be found in LAB.txt
