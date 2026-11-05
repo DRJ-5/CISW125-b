@@ -1,0 +1,16 @@
+Shopping_cart=["banana","milk","orange juice"]
+print(len(Shopping_cart))
+print(Shopping_cart[1])
+Shopping_cart.append("Chocolate")
+print(Shopping_cart)
+Shopping_cart.insert(2,"Cabbage")
+print(Shopping_cart)
+Shopping_cart.append("banana")
+Shopping_cart.count("banana")
+print(Shopping_cart)
+print(Shopping_cart.count("banana"))
+Shopping_cart.remove("milk")
+Shopping_cart.sort()
+print(Shopping_cart)
+Shopping_cart.reverse
+print(Shopping_cart)
