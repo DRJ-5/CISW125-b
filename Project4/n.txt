@@ -1,0 +1,4 @@
+This is the file we will call on in program 1
+jthis is the second line of the text /n this hopefully should be the thirdC:\Users\Danie\AppData\Local\Python\pythoncore-3.14-64\python.exe d:/Scueal/j/CISW125-b/Project4/Program1.pythis is try number 3luffyzoronamiusoppsanjichopper
+n
+robin
